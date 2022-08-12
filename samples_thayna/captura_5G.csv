@@ -1,0 +1,10 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+84:01:12:C0:12:97, 2022-08-11 10:42:41, 2022-08-11 18:07:40, 116, 1733, WPA2, CCMP, PSK, -91,    10132,      549,   0.  0.  0.  0,   9, MIRIAN-5G, 
+3C:82:C0:67:1A:E4, 2022-08-11 10:42:45, 2022-08-11 18:07:32, 149, 1733, WPA2, CCMP, PSK, -23,    10870,     6878,   0.  0.  0.  0,  14, CLARO_5G671AD8, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+88:D8:2E:60:A6:CB, 2022-08-11 11:35:09, 2022-08-11 16:06:22, -46,       10, (not associated) ,CLARO_2G671AD8
+8A:87:34:22:DA:51, 2022-08-11 15:01:13, 2022-08-11 15:20:53, -88,       16, (not associated) ,MIRIAN
+8A:55:39:58:E0:49, 2022-08-11 10:45:45, 2022-08-11 17:40:15, -61,     6662, 3C:82:C0:67:1A:E4,CLARO_5G671AD8
+
